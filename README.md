@@ -30,15 +30,4 @@ This repository aims to:
 - Reflect on real-world applications
 - Encourage discussion and deeper understanding of power dynamics
 
-## 📁 Structure
 
-```bash
-The-48-Laws-of-Power/
-├── summaries/
-│   ├── law1.md
-│   ├── law2.md
-│   └── ...
-├── quotes/
-│   └── famous-quotes.md
-├── the-48-laws-of-power-robe-selar.co-660e720cf3c51.jpeg
-└── README.md
