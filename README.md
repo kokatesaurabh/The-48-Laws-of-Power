@@ -3,7 +3,7 @@
 > *“Power is not what you do — it’s what others think you do.”*  
 > — Robert Greene, *The 48 Laws of Power*
 
-![Cover](assets/the-48-laws-of-power-robe-selar.co-660e720cf3c51.jpeg)
+![Cover](the-48-laws-of-power-robe-selar.co-660e720cf3c51.jpeg)
 
 ## 🧠 About the Book
 
@@ -29,4 +29,16 @@ This repository aims to:
 - Summarize each law with practical takeaways
 - Reflect on real-world applications
 - Encourage discussion and deeper understanding of power dynamics
-  
+
+## 📁 Structure
+
+```bash
+The-48-Laws-of-Power/
+├── summaries/
+│   ├── law1.md
+│   ├── law2.md
+│   └── ...
+├── quotes/
+│   └── famous-quotes.md
+├── the-48-laws-of-power-robe-selar.co-660e720cf3c51.jpeg
+└── README.md
